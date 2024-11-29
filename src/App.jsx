@@ -10,8 +10,8 @@ import Swiperrr from "./components/Swiperr";
 function App() {
   return (
     <>
-      <Header/>
-      <Swiperrr/>
+      <Header />
+      <Swiperrr />
       <ToastContainer />
       <Products />
     </>
